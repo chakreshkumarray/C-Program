@@ -4,7 +4,7 @@ password is entered.*/
 #include<string.h>
 int main()
 {
-  const char STORED_PASSWORD[]="Chak@5503";
+  const char STORED_PASSWORD[]="XXXXXXXXXXXXX";
   char password[20];
   do{
     printf("\nEnter a password:");
