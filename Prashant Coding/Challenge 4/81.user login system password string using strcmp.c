@@ -4,7 +4,7 @@ password string using strcmp.*/
 #include<string.h>
 int main()
 {
- const char STORED_PASSWORD[]="Chak@5503";
+ const char STORED_PASSWORD[]="XXXXXXXXXXXXX";
  char password[50];
  printf("Enter the password:");
  scanf("%s",password);
